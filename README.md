@@ -5,6 +5,8 @@ This code is used in the following tutorial: https://brettfisher.dev/vue-express
 ## Setup
 
 ```
+$ git clone https://github.com/bandrewfisher/monorepo-tutorial
+$ cd monorepo-tutorial
 $ yarn install
 ```
 
