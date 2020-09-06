@@ -1,0 +1,7 @@
+{
+  "name": "vue-express-monorepo",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
